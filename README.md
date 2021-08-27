@@ -12,7 +12,7 @@ Software Requirements :
 1. Arduino IDE
 
 
-Connction steps :
+Connection steps :
 
 1. Connect one termial of the switch to +5v of Arduino UNO board and other to GND with a resistance(ex. 1 KOhm).
 
