@@ -4,7 +4,7 @@ This program introduces to basic external interrupts available on Atmega328P MCU
 HardWare requirements :
 
 1. Arduino development board with Atmega328P MCU
-2. An external switch to provide interrupt (input) in PIN2/PIN3.
+2. An external switch to provide interrupt (input) in PIN2(INT0)/PIN3(INT1).
 3. LED, Resistance (1 kOhm), few jumper wires, Bread board.
 
 Software Requirements :
